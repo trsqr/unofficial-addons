@@ -33,6 +33,7 @@ PKG_LONGDESC="ComSkip is a free video commercial detector. It is a console appli
 
 PKG_IS_ADDON="yes"
 PKG_ADDON_TYPE="xbmc.python.script"
+PKG_ADDON_REPOVERSION="6.0"
 
 PKG_AUTORECONF="yes"
 
