@@ -1,0 +1,2 @@
+4.3.0
+- initial addon based on comskip-0.93i
